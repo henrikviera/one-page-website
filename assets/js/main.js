@@ -5,6 +5,7 @@ $(document).ready(function() {
 
   // ========================================================================= //
   //  //SMOOTH SCROLL
+  //   https://www.w3schools.com/howto/howto_css_smooth_scroll.asp#section1
   // ========================================================================= //
 
 
@@ -47,7 +48,7 @@ $(document).ready(function() {
   }
 
   // ========================================================================= //
-  //  //NAVBAR SHOW - HIDE
+  //  //NAVBAR SHOW -  Hide Navbar on Scroll Down
   // ========================================================================= //
 
 
@@ -65,6 +66,7 @@ $(document).ready(function() {
 
   // ========================================================================= //
   //  // RESPONSIVE MENU
+  //  https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
   // ========================================================================= //
 
   $('.responsive').on('click', function(e) {
@@ -73,13 +75,14 @@ $(document).ready(function() {
 
   // ========================================================================= //
   //  Typed Js
+  //   https://mattboldt.com/demos/typed-js/
   // ========================================================================= //
 
   var typed = $(".typed");
 
   $(function() {
     typed.typed({
-      strings: ["Ismail Tasdelen.", "Security Researcher.", "Bug Bounty Hunter.", "Developer."],
+      strings: ["Hernik Viera.", "frontend developer.", "app developer.", ],
       typeSpeed: 100,
       loop: true,
     });
@@ -88,6 +91,7 @@ $(document).ready(function() {
 
   // ========================================================================= //
   //  Owl Carousel Services
+  //  https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html
   // ========================================================================= //
 
 
@@ -103,7 +107,7 @@ $(document).ready(function() {
 
 
   // ========================================================================= //
-  //  Porfolio isotope and filter
+  //  Porfolio isotope and filter - https://isotope.metafizzy.co/
   // ========================================================================= //
 
 
@@ -121,7 +125,8 @@ $(document).ready(function() {
 
 
   // ========================================================================= //
-  //  magnificPopup
+  //  magnificPopup - is a responsive lightbox & dialog script with focus on 
+  //  performance and providing best experience for user with any device
   // ========================================================================= //
 
   var magnifPopup = function() {
