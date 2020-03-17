@@ -9,6 +9,7 @@
 /*  General Styling
 /*-----------------------------------------------------------------------------------*/
 
+
 body {
   background: #ffffff;
   color: #898989;
@@ -31,28 +32,41 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
+
+/*
+front med stort 
+*/
 h2 {
-  color: #292929;
+  color: #eedddd;
   font-weight: 600;
+  
+  
 }
 
 h4 {
-  color: #292929;
+  color: #f5e7e7;
   font-size: 14px;
   font-weight: 600;
 }
 
+
+/*
+Email 
+*/
 a {
-  color: #292929;
+  color: #f0e9e9;
   text-decoration: none !important;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
   -webkit-transition: all 0.5s ease-in-out 0s;
   transition: all 0.5s ease-in-out 0s;
+  
 }
 
+
 a:hover {
+  
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -60,9 +74,13 @@ a:hover {
   transition: all 0.5s ease-in-out 0s;
 }
 
+/* 
+Email  focus kode. når man føre musen over den
+*/
 a:hover, a:focus {
   color: #b8a07e;
   text-decoration: underline;
+  
 }
 
 nav ul li a {
@@ -243,6 +261,9 @@ nav ul li a {
   background: url("../images/home-bg.jpg") repeat scroll center center / cover;
   height: 100vh;
   width: 100%;
+}
+#container{
+  color: #fff;
 }
 
 

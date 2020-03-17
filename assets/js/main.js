@@ -5,7 +5,7 @@ $(document).ready(function() {
 
   // ========================================================================= //
   //  //SMOOTH SCROLL
-  //   https://www.w3schools.com/howto/howto_css_smooth_scroll.asp#section1
+  //https://www.w3schools.com/howto/howto_css_smooth_scroll.asp#section1
   // ========================================================================= //
 
 
@@ -160,3 +160,4 @@ $(document).ready(function() {
   magnifPopup();
 
 });
+

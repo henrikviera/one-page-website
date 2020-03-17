@@ -16,19 +16,28 @@
   <link href="assets/css/responsive.css" rel="stylesheet">
   <link rel="shortcut icon" href="images/favicon.png">
 </head>
-<body>
+<body>  
   <div id="header" class="home">
     <div class="container">	
       <div class="header-content">
         <h1>Jeg er  <span class="typed"></span></h1>
-        <p>frontend, developer, app developer,</p>
-        <ul class="list-unstyled list-social">
-		  <li><a href="https://github.com/ismailtasdelen" target="_blank"><i class="ion-social-github"></i></a></li>
-          <li><a href="https://www.linkedin.com/in/ismailtasdelen/" target="_blank"><i class="ion-social-linkedin" target="_blank"></i></a></li>
-          <li><a href="https://twitter.com/@ismailtsdln" target="_blank"><i class="ion-social-twitter"></i></a></li>
-          <li><a href="https://www.youtube.com/channel/UCPqc50Wmt6ZF2BJWtNJlq-g"><i class="ion-social-youtube" target="_blank"></i></a></li>
-		  <li><a href="https://www.instagram.com/henrik_eduardo_orrego_viera" target="_blank"><i class="ion-social-instagram"></i></a></li>
-		  <li><a href="https://www.facebook.com/henrik.vieraa" target="_blank"><i class="ion-social-facebook"></i></a></li>
+        <p>Uddannet på Erhvervsakademi århus multimediedesigner</p>
+      
+     
+          <h2> <br>Get in touch with me</h2>
+          <p class="strong">lad os tale om <br> hvad jeg kan gøre for dig </p>
+          <p class="strong">henrik eduardo orrego viera<br>frontend developer & App developer<br></p>
+          <p class="strong">
+            <a href="mailto:ittz63@gmail.com">ittz63@gmail.com</a><br>
+            <ul class="list-unstyled list-social">
+              <li><a href="https://github.com/henrikviera" target="_blank"><i class="ion-social-github"></i></a></li>
+                  <li><a href="https://www.linkedin.com/in/henrik-viera-217b1763//" target="_blank"><i class="ion-social-linkedin" target="_blank"></i></a></li>
+                  <li><a href="https://twitter.com/@VieraIttz" target="_blank"><i class="ion-social-twitter"></i></a></li>
+                  <li><a href="https://www.youtube.com/UCWYixGLIsWwvK7kVqryAdwA?view_as=subscriber"><i class="ion-social-youtube" target="_blank"></i></a></li>
+              <li><a href="https://www.instagram.com/henrik_eduardo_orrego_viera" target="_blank"><i class="ion-social-instagram"></i></a></li>
+              <li><a href="https://www.facebook.com/henrik.vieraa" target="_blank"><i class="ion-social-facebook"></i></a></li>
+              <div class="col-left"></div>
+              
       </div>
     </div>
   </div>
@@ -42,3 +51,6 @@
   <script src="assets/js/main.js"></script>
 </body>
 </html>
+
+
+
