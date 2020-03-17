@@ -82,7 +82,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Hernik Viera.", "frontend developer.", "app developer.", ],
+      strings: ["Henrik Viera.", "frontend developer.", "app developer.", ],
       typeSpeed: 100,
       loop: true,
     });
